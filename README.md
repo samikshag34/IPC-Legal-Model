@@ -3,7 +3,7 @@
 An Explainable NLP-based Machine Learning system that predicts the applicable 
 Indian Penal Code (IPC) section from a given crime description.
 
-🔗 **Live Demo:** https://your-streamlit-link.streamlit.app
+🔗 **Live Demo:** https://ipc-legal-model-7jnrv5agwur6xqgx9tlshu.streamlit.app/
 
 ---
 
